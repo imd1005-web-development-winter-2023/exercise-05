@@ -25,4 +25,4 @@ Note: depending on what browser you are using your form elements may look slight
 
 Here is how you should structure your HTML document, using semantic elements like `header`, `main` and `footer`.
 
-![This is an image of the finished product](/images/finished.png)
+![This is an image of the finished product](/images/structure.png)
